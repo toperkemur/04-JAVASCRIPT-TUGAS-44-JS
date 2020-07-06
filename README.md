@@ -19,5 +19,4 @@ Pada saat kita menekan tombol ubah warna  maka akan merubah warna tulisan sepert
 
 
 Hint : Gunakan fungsi item pada html collection by tagname. <br>
-
 4. Happy Codding :)<br>
