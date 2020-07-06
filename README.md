@@ -2,9 +2,7 @@
 Tugas 44 Javascript Niomic
 <hr>
 1. Pastikan Teman Teman Sudah Menginstall Web Server For Chromenya <br>
-
 2. Teman - Teman Buatlah File di Folder javascript teman teman sebuah file dengan nama file tugas44.html <br>
-
 3. Ketikan Script Dibawah ini : <br>
 
 <img src="https://lh5.googleusercontent.com/8X4rvEzo4fU1cbp9QsWIGPkJMC9lFjdRd0UUbniyoJUj0K6OIC7n42y0zJUShA9ksq_27wa0WaHOr--Y8FcN8J0Wv_uFIFNhVFgsx7d4KKEoonh3g82h-Yu-TAKGnRxBNV7ajZHt">
